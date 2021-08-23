@@ -1,1 +1,1 @@
-# New-Store
+# project-new-store
